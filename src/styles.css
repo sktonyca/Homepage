@@ -1,1 +1,36 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Oxanium&display=swap");
+.nav-link,
+.clock {
+  font-family: "Oxanium";
+  color: #000000;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.display-4 {
+  display: inline;
+}
+
+.genList li {
+  font-size: 18px;
+  padding-top: 0.5em;
+  padding-bottom: 1em;
+}
+
+#blankMenu {
+  visibility: hidden;
+}
+
+#frontTitle {
+  text-align: center;
+  font-family: "Oxanium";
+  font-size: 25px;
+}
+
+.lead {
+  font-size: 25px;
+}
